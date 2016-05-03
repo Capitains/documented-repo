@@ -1,13 +1,13 @@
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:capitains:textgroup_identifier" urn="urn:cts:capitains:textgroup_identifier.work_identifier" xml:lang="Original Language of the work with three characters such as fre, fro or lat">
     <ti:title xml:lang="eng">The name of the work : the identifier of the inscription, the title of the text, eg: Medea</ti:title>
     
-    <ti:edition workUrn="urn:cts:capitains:textgroup_identifier.work_identifier" urn="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-lang1">
+    <ti:edition workUrn="urn:cts:capitains:textgroup_identifier.work_identifier" urn="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-originallang1">
         <ti:label xml:lang="eng">Title of the edition. The edition is a published version of the work. For example, there is one work "Epigrammata" of Martial and only one Aeneid from Virgil, but there can be many different editions. Edition can have the same name as the work</ti:label>
         <ti:description xml:lang="eng">Description of the edition. This often contains the name of the editor, the printing details if there is, the data oe of the edition</ti:description>
     </ti:edition>
     
     
-    <ti:translation xml:lang="language in which the translation is." workUrn="urn:cts:capitains:textgroup_identifier.work_identifier" urn="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-lang1">
+    <ti:translation xml:lang="language in which the translation is." workUrn="urn:cts:capitains:textgroup_identifier.work_identifier" urn="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-translationlang1">
         <ti:label xml:lang="eng">Title of the translation. Same as edition's title: this could be for Martial's Epigrammata : Epigrams or Epigrammes.</ti:label>
         <ti:description xml:lang="eng">Description of the translation : edition used for translation, name of the translator(s), time of publication.</ti:description>
     </ti:translation>
