@@ -44,7 +44,7 @@
     <text>
         <body>
             <!-- See edition file ... originallang1.xml -->
-            <div type="translation" n="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-translationlang1" xml:lang="language in which the translation is.">
+            <div type="translation" n="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-translationlang1" xml:lang="eng">
                 <div type="textpart" subtype="level1" n="1">
                     <div type="textpart" subtype=" level2" n="1">
                     

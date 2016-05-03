@@ -62,7 +62,7 @@
                 - The @n attribute of this file should contain the text urn.
                 - The xml:lang tag should reflect the language of the text in an ISO 639-2 manner : https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes (Three characters)
             --> 
-            <div type="edition" n="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-originallang1" xml:lang="Original Language of the work with three characters such as fre, fro or lat">
+            <div type="edition" n="urn:cts:capitains:textgroup_identifier.work_identifier.capitains-originallang1" xml:lang="eng">
                 <div type="textpart" subtype="level1" n="1">
                     <div type="textpart" subtype="level2" n="1">
                         <div type="textpart" subtype="level3" n="1">
