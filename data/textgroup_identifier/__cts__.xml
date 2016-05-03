@@ -1,0 +1,3 @@
+<ti:textgroup xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:capitains:textgrou_identifier">
+	<ti:groupname xml:lang="eng">An identifier for any group of texts that are conventionally cited together in the naming authority's tradition : the name of the Author, the identifier of an inscription collection, the place where the manuscript was found, etc.</ti:groupname>
+</ti:textgroup>
